@@ -219,7 +219,9 @@ Projeto
 
 
 
-📝 Prática algoritmo
+
+
+📝 PRARICA-ALGORITIMO
 
 ---
 ### 🔹 Exercício 1: Imprimir um número em tela
@@ -317,6 +319,8 @@ ALGORITMO MaiorEntreDois
       ESCREVA("Maior:", b)
     FIM_SE
   FIM
+
+
 
 
 🛡️FLUXOGRAMA 
