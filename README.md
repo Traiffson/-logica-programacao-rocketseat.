@@ -219,7 +219,7 @@ Projeto
 
 
 
-📝 prática-algoritmo 
+📝 Prática algoritmo
 
 ---
 ### 🔹 Exercício 1: Imprimir um número em tela
@@ -318,5 +318,57 @@ ALGORITMO MaiorEntreDois
     FIM_SE
   FIM
 
+
+🛡️FLUXOGRAMA 
+
+   (Início)
+      |
+      v
+ [Entrada: N]
+      |
+      v
+[Processo: D = N * 2]
+      |
+      v
+ [Saída: D]
+      |
+      v
+    (Fim)
+
+
+   (Início)
+      |
+      v
+ [Entrada: N]
+      |
+      v
+   <N < 10?>
+   /      \
+  v        v
+[Saída:   [Saída:
+ "Sim"]    "Não"]
+   \        /
+    \      /
+      v  v
+      (Fim)
+
+
+   (Início)
+      |
+      v
+[Processo: I = 1]
+      |
+      v
+   <I <= 5?>
+   /      \
+  v        v
+[Saída:   (Fim)
+  I]
+  |
+  v
+[Processo: I = I + 1]
+  |
+  v
+ (volta para a decisão)
 
 
