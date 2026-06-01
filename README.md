@@ -221,7 +221,7 @@ Projeto
 
 
 
-📝 PRARICA-ALGORITIMO
+📝 PRÁTICA-ALGORITMO
 
 ---
 ### 🔹 Exercício 1: Imprimir um número em tela
@@ -325,54 +325,29 @@ ALGORITMO MaiorEntreDois
 
 🛡️FLUXOGRAMA 
 
-   (Início)
-      |
-      v
- [Entrada: N]
-      |
-      v
-[Processo: D = N * 2]
-      |
-      v
- [Saída: D]
-      |
-      v
-    (Fim)
+ 1) Calcular o dobro de um número
 
+(Início) — Elipse
+[Entrada: N] — Paralelogramo
+[Processo: D = N * 2] — Retângulo
+[Saída: D] — Paralelogramo
+(Fim) — Elipse
 
-   (Início)
-      |
-      v
- [Entrada: N]
-      |
-      v
-   <N < 10?>
-   /      \
-  v        v
-[Saída:   [Saída:
- "Sim"]    "Não"]
-   \        /
-    \      /
-      v  v
-      (Fim)
+2) Verificar se o número é menor que 10
 
+(Início) — Elipse
+[Entrada: N] — Paralelogramo
+< N < 10 ? > — Losango
+[Saída: "Menor que 10"] — Paralelogramo
+[Saída: "Maior ou igual a 10"] — Paralelogramo
+(Fim) — Elipse
 
-   (Início)
-      |
-      v
-[Processo: I = 1]
-      |
-      v
-   <I <= 5?>
-   /      \
-  v        v
-[Saída:   (Fim)
-  I]
-  |
-  v
-[Processo: I = I + 1]
-  |
-  v
- (volta para a decisão)
+3) Contar até 5
 
+(Início) — Elipse
+[Processo: I = 1] — Retângulo
+< I <= 5 ? > — Losango
+[Saída: I] — Paralelogramo
+[Processo: I = I + 1] — Retângulo
+(Fim) — Elipse
 
