@@ -1,4 +1,4 @@
-Projeto
+🎓 PROJETO FACULDADE 
 
 # 📚 **Prática - Conectivos Lógicos**
 **Aluno:** Traiffson Dev
@@ -221,7 +221,7 @@ Projeto
 
 
 
-📝 PRÁTICA-ALGORITMO
+📝 PRÁTICA-ALGORITMO:
 
 ---
 ### 🔹 Exercício 1: Imprimir um número em tela
@@ -323,7 +323,7 @@ ALGORITMO MaiorEntreDois
 
 
 
-🛡️FLUXOGRAMA 
+🛡️FLUXOGRAMA: 
 
  1) Calcular o dobro de um número
 
@@ -351,3 +351,35 @@ ALGORITMO MaiorEntreDois
 [Processo: I = I + 1] — Retângulo
 (Fim) — Elipse
 
+
+📝 DESCRIÇÃO NARRATIVA: 
+
+1) Fazer um café coado
+Para preparar o café coado, organiza-se o filtro, o suporte, o pó e a água quente. O filtro é colocado no suporte, o pó é adicionado e a água quente é despejada lentamente. O líquido passa pelo filtro e se acumula no recipiente, resultando em um café pronto para consumo.
+
+2) Configurar o despertador no celular
+Para configurar o despertador, o usuário acessa o aplicativo de relógio do celular, define o horário desejado, ajusta repetições e escolhe o som do alarme. Após confirmar, o despertador fica programado para tocar no horário definido.
+
+3) Ligar um computador
+O processo inicia-se pressionando o botão de energia. O sistema operacional carrega e, após alguns instantes, a área de trabalho aparece, indicando que o computador está pronto para uso.
+
+4) Carregar o celular
+Para carregar o celular, conecta-se o cabo ao aparelho e à fonte de energia. O ícone de carregamento aparece na tela, indicando que a bateria está sendo abastecida.
+
+5) Assistir a um filme em casa
+Para assistir a um filme, o usuário escolhe uma plataforma de streaming, seleciona o título desejado e inicia a reprodução. O ambiente é ajustado conforme necessário, permitindo uma experiência confortável.
+
+6) Regar uma planta
+Para regar uma planta, verifica-se o estado do solo. Se estiver seco, adiciona-se água de forma gradual até que o solo fique úmido, garantindo a hidratação adequada da planta.
+
+7) Fazer uma pipoca
+Para preparar pipoca, coloca-se óleo e milho em uma panela e leva-se ao fogo. A panela é tampada e, após alguns minutos, os grãos começam a estourar. Quando os estalos diminuem, a pipoca está pronta para ser servida.
+
+8) Participar de uma reunião online
+Para participar de uma reunião online, o usuário acessa o link da videoconferência, verifica câmera e microfone e ingressa na sala virtual. A partir daí, pode interagir com os demais participantes.
+
+9) Criar uma lista com as tarefas da semana
+Para criar uma lista semanal, o usuário abre um aplicativo de anotações ou utiliza papel e caneta. Em seguida, registra as atividades previstas, organizando-as conforme prioridade.
+
+10) Assistir a um vídeo do Diego no canal da Rocketseat
+Para assistir ao vídeo, o usuário acessa o YouTube, pesquisa pelo canal da Rocketseat e seleciona um conteúdo apresentado por Diego. O vídeo é reproduzido e oferece explicações sobre temas de tecnologia e desenvolvimento.
